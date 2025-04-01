@@ -76,11 +76,11 @@ Prepares data for business intelligence and reporting.
 
 ✍️ Author
 
-[Your Name]
+Dion Hasolli
 
-📧 Contact: [Your Email]
+📧 Contact: dionhasolli30@gmail.com
 
-🌐 Portfolio: [Your Portfolio Link]
+🌐 Portfolio: https://github.com/DataWithDion/Data-Analyst-Portfolio
 
 This work is part of my Data Analytics Portfolio, showcasing SQL-based data cleaning techniques. 🚀
 
