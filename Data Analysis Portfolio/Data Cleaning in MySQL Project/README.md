@@ -82,6 +82,6 @@ Dion Hasolli
 
 🌐 Portfolio: https://github.com/DataWithDion/Data-Analyst-Portfolio
 
-This work is part of my Data Analytics Portfolio, showcasing SQL-based data cleaning techniques. 🚀
+This work is part of my Data Analytics Portfolio, showcasing SQL-based data cleaning techniques. 
 
 
