@@ -35,7 +35,8 @@ Total Products
 
 Total Customers
 
-3. Sales & Customer Analysis
+3️⃣ Sales & Customer Analysis
+
 Analyzed total customers by state.
 
 Examined product distribution by subcategories.
