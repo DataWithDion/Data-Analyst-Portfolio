@@ -53,7 +53,7 @@ Listed the 5 lowest-performing products based on sales.
 
 Ranked top-performing and bottom-performing subcategories.
 
-5. Highest Performing Customers
+5️⃣ Highest Performing Customers
 Identified the top 10 most profitable customers.
 
 Found the 10 customers with the lowest number of orders.
@@ -93,4 +93,4 @@ Dion Hasolli
 💌 Contact: dionhasolli30@gmail.com
 📚 Portfolio: https://github.com/DataWithDion/Data-Analyst-Portfolio
 
-This project is part of my Data Analytics Portfolio, showcasing SQL-based data exploration techniques. 🌟
+This project is part of my Data Analytics Portfolio, showcasing SQL-based data exploration techniques. 
