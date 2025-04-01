@@ -5,6 +5,7 @@ Exploratory Data Analysis (EDA) in SQL: Store Sales Forecasting
 This project focuses on conducting Exploratory Data Analysis (EDA) on store sales forecasting data using MySQL. The goal is to uncover valuable insights about sales performance, customer behavior, and product trends.
 
 ✨ Key Objectives
+
 Understand the content and structure of the dataset.
 
 Calculate important business metrics.
@@ -59,6 +60,7 @@ Identified the top 10 most profitable customers.
 Found the 10 customers with the lowest number of orders.
 
 ⚙️ Technologies & Techniques Used
+
 SQL Aggregate Functions: SUM, COUNT, AVG, MIN, MAX
 
 GROUP BY and ORDER BY for segmentation
@@ -74,6 +76,7 @@ eda_analysis.sql: SQL script containing all EDA queries.
 dataset/: Directory containing the raw data files.
 
 🚀 How to Use
+
 Load the dataset into MySQL.
 
 Execute the eda_analysis.sql file in MySQL Workbench or any SQL execution tool.
@@ -81,6 +84,7 @@ Execute the eda_analysis.sql file in MySQL Workbench or any SQL execution tool.
 Review the conclusions derived from the queries to gain insights into the dataset.
 
 💡 Insights & Business Value
+
 Provides evidence-based insights to guide sales strategy.
 
 Identifies top-selling items, major customers, and failing products.
