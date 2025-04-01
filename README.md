@@ -1,12 +1,12 @@
-<div style="background-color: white; padding: 10px; color: black;">
+Data Analyst Portfolio
 
-# Data Analyst Portfolio
+📌 Hello, and Welcome!
 
-Welcome to my Data Analyst Portfolio! This repository showcases my skills in Exploratory Data Analysis (EDA), data cleaning, advanced data analytics, and Tableau visualizations. Each project in this repository demonstrates my ability to analyze, interpret, and visualize data effectively to derive meaningful insights.
+Welcome to my Data Analyst Portfolio! The portfolio below demonstrates my proficiency in Exploratory Data Analysis (EDA), data cleaning, complex data analytics, and Tableau visualizations. Each project below showcases my ability to analyze, interpret, and visualize data in a manner that provides timely insights.
 
-📌 About Me
+📖 About Me
 
-I am a biochemistry student with a strong passion for data analytics. My expertise includes SQL, Excel, and Tableau, and I am dedicated to leveraging data-driven insights to solve real-world problems. Through hands-on projects, I have refined my skills in data manipulation, pattern recognition, and storytelling through visualizations.
+I am a biochemistry major with a keen interest in data analytics. I am skilled in SQL, Excel, and Tableau, and I am dedicated to applying data-driven insights to real-world applications. Through practical projects, I have mastered data manipulation, pattern identification, and storytelling through visualizations.
 
 🛠️ Skills & Tools
 
@@ -22,28 +22,27 @@ Database Management: SQL (CTEs, Window Functions)
 
 1️⃣ Exploratory Data Analysis (EDA)
 
-Performed EDA on various datasets to uncover trends and patterns.
+Applied EDA on different datasets to identify patterns and trends.
 
 Used MySQL to clean and visualize data.
 
 2️⃣ Data Cleaning & Preprocessing
 
-Worked with a raw, messy dataset and transformed it into a clean and a structured format.
+Transformed raw, messy datasets into clean and structured formats.
 
-Handled missing values and inconsistencies using SQL .
+Managed missing values and inconsistencies through SQL.
 
 3️⃣ Advanced Data Analytics
 
 Conducted in-depth analysis to answer business-related questions.
 
-Used SQL queries and  for deeper insights.
+Used SQL queries for detailed insights.
 
 4️⃣ Tableau Dashboards & Visualizations
 
-Created interactive Tableau dashboards to present key findings.
+Developed interactive Tableau dashboards to report significant findings.
 
-Designed visualizations that communicate insights effectively.
-
+Created visualizations that clearly convey insights.
 
 🚀 Connect with Me
 
@@ -53,7 +52,6 @@ LinkedIn: [Your LinkedIn Profile]
 
 Email: dionhasolli30@gmail.com
 
-Thank you for visiting my portfolio! 
+Thank you for visiting my portfolio! 
 
-</div>
 
