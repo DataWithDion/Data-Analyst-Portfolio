@@ -1,4 +1,3 @@
-
 <div style="background-color: white; padding: 10px; color: black;">
 
 # Data Analyst Portfolio
@@ -55,4 +54,6 @@ LinkedIn: [Your LinkedIn Profile]
 Email: dionhasolli30@gmail.com
 
 Thank you for visiting my portfolio! 
+
+</div>
 
