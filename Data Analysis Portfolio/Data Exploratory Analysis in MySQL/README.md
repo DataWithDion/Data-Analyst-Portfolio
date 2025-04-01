@@ -68,6 +68,7 @@ DISTINCT for fetching distinct values
 LIMIT for ranking data
 
 📂 Project Files
+
 eda_analysis.sql: SQL script containing all EDA queries.
 
 dataset/: Directory containing the raw data files.
@@ -86,7 +87,7 @@ Identifies top-selling items, major customers, and failing products.
 
 Assists with marketing and inventory decision-making based on data-driven conclusions.
 
-👨‍🎓 Author
+✍️ Author
 
 Dion Hasolli
 
