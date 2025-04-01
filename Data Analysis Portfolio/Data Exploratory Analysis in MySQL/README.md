@@ -45,7 +45,8 @@ Calculated total profit by category and by customer.
 
 Evaluated item distribution across states.
 
-4. Worst & Top-Performing Products and Subcategories
+4️⃣ Worst & Top-Performing Products and Subcategories
+
 Identified top 5 revenue-generating products.
 
 Listed the 5 lowest-performing products based on sales.
