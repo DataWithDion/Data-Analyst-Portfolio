@@ -76,8 +76,8 @@ Provides strategic decision-making insights for businesses by identifying profit
 
 Enables monitoring of product and regional performance for better resource allocation.
 
-👨‍💻 Author
+✍️ Author
 
 Dion Hasolli📧 Contact: dionhasolli30@gmail.com🌍 Portfolio: https://github.com/DataWithDion/Data-Analyst-Portfolio
 
-This project is part of my Data Analytics Portfolio, showcasing SQL-based advanced data analytics. 🚀
+This project is part of my Data Analytics Portfolio, showcasing SQL-based advanced data analytics. 
