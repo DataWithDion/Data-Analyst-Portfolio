@@ -23,7 +23,7 @@ Calculated total sales, number of items, and total orders.
 
 Summed up total products and total customers.
 
-2. Business Metrics Report
+2️⃣ Business Metrics Report
 Developed major business metrics:
 
 Total Sales
