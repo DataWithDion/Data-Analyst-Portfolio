@@ -2,7 +2,7 @@ Data Analyst Portfolio
 
 📌 Hello, and Welcome!
 
-Welcome to my Data Analyst Portfolio! The portfolio below demonstrates my proficiency in Exploratory Data Analysis (EDA), data cleaning, complex data analytics, and Tableau visualizations. Each project below showcases my ability to analyze, interpret, and visualize data in a manner that provides timely insights.
+Welcome to my Data Analyst Portfolio! The portfolio below demonstrates my proficiency in Exploratory Data Analysis (EDA), Data Cleaning, Advanced Data analytics, and Tableau visualizations. Each project below showcases my ability to analyze, interpret, and visualize data in a manner that provides timely insights.
 
 📖 About Me
 
