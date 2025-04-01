@@ -1,6 +1,7 @@
 Exploratory Data Analysis (EDA) in SQL: Store Sales Forecasting
 
 📋 Project Overview
+
 This project focuses on conducting Exploratory Data Analysis (EDA) on store sales forecasting data using MySQL. The goal is to uncover valuable insights about sales performance, customer behavior, and product trends.
 
 ✨ Key Objectives
