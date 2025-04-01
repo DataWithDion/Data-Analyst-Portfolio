@@ -14,7 +14,7 @@ Track performance across products, customers, and sales.
 Identify top- and bottom-performing products, customers, and regions.
 
 🔍 Exploratory Analysis & Questions
-1. Data Exploration
+1️⃣ Data Exploration
 Identified unique states, categories, and subcategories.
 
 Determined the first and last order dates.
