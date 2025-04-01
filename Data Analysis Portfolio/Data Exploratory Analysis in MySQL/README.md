@@ -14,6 +14,7 @@ Track performance across products, customers, and sales.
 Identify top- and bottom-performing products, customers, and regions.
 
 🔍 Exploratory Analysis & Questions
+
 1️⃣ Data Exploration
 Identified unique states, categories, and subcategories.
 
