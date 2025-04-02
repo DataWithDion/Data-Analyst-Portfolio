@@ -44,6 +44,10 @@ Developed interactive Tableau dashboards to report significant findings.
 
 Created visualizations that clearly convey insights.
 
+🚀 How to Use This Portfolio
+
+To get the most out of this portfolio, browse through the projects to view the particular techniques and learnings offered by each project. Click on each project for in-depth explanation, code snippets, and interactive visualizations. These projects are the best reflection of my ability and approach for data analysis and illustrate the tools and techniques utilized to derive insights from data.
+
 🚀 Connect with Me
 
 If you find my work interesting or have any feedback, feel free to reach out:
