@@ -22,7 +22,7 @@ Database Management: SQL (CTEs, Window Functions)
 
 1️⃣ Exploratory Data Analysis (EDA)
 
-Applied EDA on different datasets to identify patterns and trends.
+Applied EDA to identify patterns and trends.
 
 Used MySQL to clean and visualize data.
 
