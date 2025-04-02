@@ -52,7 +52,7 @@ To get the most out of this portfolio, browse through the projects to view the p
 
 If you find my work interesting or have any feedback, feel free to reach out:
 
-LinkedIn: [Your LinkedIn Profile]
+LinkedIn: https://www.linkedin.com/in/dion-hasolli-49021a35a/
 
 Email: dionhasolli30@gmail.com
 
