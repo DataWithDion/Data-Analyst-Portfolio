@@ -95,7 +95,7 @@ Assists with marketing and inventory decision-making based on data-driven conclu
 
 Dion Hasolli
 
-💌 Contact: dionhasolli30@gmail.com
+Contact: dionhasolli30@gmail.com
 📚 Portfolio: https://github.com/DataWithDion/Data-Analyst-Portfolio
 
 This project is part of my Data Analytics Portfolio, showcasing SQL-based data exploration techniques. 
